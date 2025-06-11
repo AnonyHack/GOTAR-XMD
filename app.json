@@ -8,15 +8,15 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "GOTAR~XMD~G8RkVaxB#tFgdCpenm1yLlEyKBctn9ZIqWzUPIooOeSgu2CHWKi8",
+      "description": "Session-ID",
       "required": true,
-      "value": ""
+      "value": "GOTAR~XMD~G8RkVaxB#tFgdCpenm1yLlEyKBctn9ZIqWzUPIooOeSgu2CHWKi8"
     },  
     
     "STICKER_NAME": {
       "description": "FreenetHub Devz",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "ꜰʀᴇᴇɴᴇᴛʜᴜʙ ᴅᴇᴠᴢ"
     }, 
       
     "PREFIX": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY FreenetHub Devz 🖤*"
+      "value": "*SEEN YOUR STATUS BY ꜰʀᴇᴇɴᴇᴛʜᴜʙ ᴅᴇᴠᴢ 🖤*"
    
      }, 
     
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "ꜰʀᴇᴇɴᴇᴛʜᴜʙ ᴅᴇᴠᴢ"
 
       }, 
 
